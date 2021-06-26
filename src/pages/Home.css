@@ -1,0 +1,14 @@
+.header-logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+.header-logo img{
+    width: 10rem;
+    margin-left: 3rem;
+}
+.header-logo button{
+   height: 3rem;
+   margin-right: 3rem;
+}

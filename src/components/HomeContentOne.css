@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: cornsilk;
+    border-bottom: 1rem;
+    border-style: groove;
+    border-color: darkgrey;
+}
+.col-6 img{
+    width: 40rem;
+}
