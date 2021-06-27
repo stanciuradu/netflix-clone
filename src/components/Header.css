@@ -1,0 +1,14 @@
+.container .header-logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+.container .header-logo img{
+    width: 10rem;
+    margin-left: 3rem;
+}
+.container .header-logo button{
+   height: 3rem;
+   margin-right: 3rem;
+}
