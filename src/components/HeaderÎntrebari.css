@@ -1,0 +1,20 @@
+.container-intrebari{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: black;
+    align-items: center;
+}
+.container-intrebari img{
+    width: 10rem;
+    color: white;
+}
+.buttons .btn{
+    margin-right: 1rem;
+}
+.buttons .btn-dark:hover{
+    background-color: grey;
+}
+.buttons .btn-dark{
+    border: 1px solid white;
+}

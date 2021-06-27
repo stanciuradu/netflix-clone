@@ -1,32 +1,23 @@
 import React from "react";
-import '../components/Footer.css';
+import "../components/Footer.css";
+import { Link } from "react-router-dom";
 function Footer() {
   return (
     <div className="footer container">
-        <p>Ai întrebări? Sună la 0800-672-120</p>
+      <p>Ai întrebări? Sună la 0800-672-120</p>
       <div className="row row-cols-4">
         <div className="col-3">
-            Întrebări frecvente
-            Relații cu investitorii
-            Declarație de confidențialitate
-            Test de viteză
+          <Link to="/intrebari_frecvente" className='link-footer'>Întrebări frecvente</Link>
         </div>
         <div className="col-3">
-            Asistență
-            Cariere
-            Preferințe de Cookie 
-            Mențiuni legale
+          Asistență Cariere Preferințe de Cookie Mențiuni legale
         </div>
         <div className="col-3">
-            Cont 
-            Modalitați de vizionare
-            Infromații legate de companie
-            Titluri originale Netflix
+          Cont Modalitați de vizionare Infromații legate de companie Titluri
+          originale Netflix
         </div>
         <div className="col-3">
-            Centru media
-            Condiții de utilizare
-            Contactează-ne
+          Centru media Condiții de utilizare Contactează-ne
         </div>
       </div>
     </div>
