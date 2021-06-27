@@ -8,7 +8,7 @@ import HomeContentFour from "../components/HomeContentFour";
 import HomeContentFive from "../components/HomeContentFive";
 import Footer from "../components/Footer";
 import "./Home.css";
-function Romania() {
+function Home() {
   return (
     <div className="home">
       <Header />
@@ -23,4 +23,4 @@ function Romania() {
   );
 }
 
-export default Romania;
+export default Home;
