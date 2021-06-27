@@ -9,10 +9,12 @@ import HomeContentOne from "./components/HomeContentOne";
 import HomeContentTwo from "./components/HomeContentTwo";
 import HomeContentThree from "./components/HomeContentThree";
 import HomeContentFour from "./components/HomeContentFour";
+import HomeContentFive from "./components/HomeContentFive";
+import Footer from "./components/Footer";
 import "./App.css";
 function App() {
   return (
-    <div>
+    <div className='App'>
       <Switch>
         <Route exact path="/" component={Home} />
         <Route path="/login" component={Login} />
@@ -23,6 +25,8 @@ function App() {
       <HomeContentTwo />
       <HomeContentThree />
       <HomeContentFour />
+      <HomeContentFive />
+      <Footer />
     </div>
   );
 }

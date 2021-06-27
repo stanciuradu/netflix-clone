@@ -6,7 +6,6 @@ function Romania() {
     <div className="header-logo">
       <img src={Logo} alt="" />
       <button className="btn btn-danger">Conectare</button>
-
     </div>
   );
 }

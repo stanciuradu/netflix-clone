@@ -1,0 +1,41 @@
+.span-întrebări{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    color: white;
+    border:0.5rem solid rgb(41, 2, 2);
+    background-color: rgba(148, 123, 125, 0.979);
+}
+.open{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 2rem;
+}
+.container h1{
+    color: white;
+}
+.span-întrebări h1{
+    margin-left: 2rem;
+}
+.container form #input-text{
+    width: 20rem;
+    height: 3.5rem;
+}
+.container form .btn{
+    width: 10rem;
+    height: 3.5rem;
+    font-size: 1.5rem;
+}
+.container form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container p{
+    color:white;
+    text-align: center;
+    margin-top: 2rem;
+}
