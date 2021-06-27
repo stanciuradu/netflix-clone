@@ -1,0 +1,77 @@
+.login img{
+    width: 10rem;
+    text-align: center;
+}
+.login{
+    background-image: url('https://i.imgur.com/MJos2q8.jpg');
+    background-size: cover;
+    height: 45.1rem;
+}
+.text-center{
+    color: white;
+}
+.login form{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+}
+.asistență{
+    display: flex;
+    justify-content: space-between;
+}
+.asistență label{
+    color: cornsilk;
+}
+.asistență .link{
+    text-decoration: none;
+    color: white;
+    margin-top: 1rem;
+}
+.utilizator{
+    display: flex;
+    align-items: center;
+}
+.login-facebook{
+    display: flex;
+}
+.icon-facebook{
+    height: 2rem;
+    margin-left: 13rem;
+}
+.link-facebook{
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+.inregistrare{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.link-inregistrare{
+    text-decoration: none;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.detalii{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.back-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.form-model{
+    display: flex;
+    margin-top: 5rem;
+    flex-direction: column;
+    background-color:brown;
+    border: 1rem solid black;
+}
