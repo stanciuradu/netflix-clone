@@ -16,7 +16,6 @@ function HomeContentTwo() {
             Salvează cu ușurință titlurile preferate și vei avea mereu ceva de vizionat.
             </h3>
         </div>
-
       </div>
     </div>
   );

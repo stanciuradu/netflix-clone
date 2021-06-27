@@ -14,7 +14,7 @@ function HomeContentThree() {
             Vizionează nelimitat filme și seriale pe telefon, tabletă, laptop și televizor, fără alte costuri.
             </h3>
           </div>
-          <div class="col-6">
+          <div className="col-6">
             <img src="https://i.imgur.com/KyAou4e.png" alt="" />
           </div>
         </div>
