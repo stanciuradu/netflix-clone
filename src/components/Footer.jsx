@@ -10,7 +10,7 @@ function Footer() {
           <Link to="/intrebari_frecvente" className='link-footer'>Întrebări frecvente</Link>
         </div>
         <div className="col-3">
-          Asistență Cariere Preferințe de Cookie Mențiuni legale
+          <Link to='/asistenta' className='link-footer'>Asistență</Link>
         </div>
         <div className="col-3">
           Cont Modalitați de vizionare Infromații legate de companie Titluri
