@@ -7,17 +7,22 @@ function Footer() {
       <p>Ai întrebări? Sună la 0800-672-120</p>
       <div className="row row-cols-4">
         <div className="col-3">
-          <Link to="/intrebari_frecvente" className='link-footer'>Întrebări frecvente</Link>
+          <Link to="/intrebari_frecvente" className="link-footer">
+            Întrebări frecvente
+          </Link>
         </div>
         <div className="col-3">
-          <Link to='/asistenta' className='link-footer'>Asistență</Link>
+          <Link to="/asistenta" className="link-footer">
+            Asistență
+          </Link>
         </div>
         <div className="col-3">
-          Cont Modalitați de vizionare Infromații legate de companie Titluri
-          originale Netflix
+          <Link to="/login" className="link-footer">
+            Cont
+          </Link>
         </div>
         <div className="col-3">
-          Centru media Condiții de utilizare Contactează-ne
+          <Link to="/centruMedia" className='link-footer'>Centru media</Link>
         </div>
       </div>
     </div>
