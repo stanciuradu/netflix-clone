@@ -4,6 +4,7 @@ import ÎntrebariFreceventeContentOne from '../components/ÎntrebariFreceventeCo
 import ÎntrebariFrecventeContentTwo from '../components/ÎntrebariFrecventeContentTwo';
 import ÎntrebariFrecventeContentThree from '../components/ÎntrebariFrecventeContentThree';
 import ÎntrebariFrecventeContentFour from '../components/ÎntrebariFrecventeContentFour';
+import ÎntrebariFrceventeContentFive from '../components/ÎntrebariFrceventeContentFive';
 
 function ÎntrebariFrecevente() {
     return (
@@ -13,6 +14,7 @@ function ÎntrebariFrecevente() {
             <ÎntrebariFrecventeContentTwo />
             <ÎntrebariFrecventeContentThree />
             <ÎntrebariFrecventeContentFour />
+            <ÎntrebariFrceventeContentFive />
         </div>
     );
 }

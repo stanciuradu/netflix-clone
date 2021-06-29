@@ -10,10 +10,12 @@ function ÎntrebariFrecventeContentTwo() {
       <div class="row-întrebari row-cols-2">
         <div class="col-12">
             <img src="https://i.imgur.com/fkGIG8i.png" alt="" className='w-50' />
-            <p className='paragraf'>
+            <h5>
             Conținutul Netflix variază în funcție de regiune și se poate modifica în timp.
-            </p>
+            </h5>
+            <h5>
             Cu cât vizionezi mai mult, recomandările serialelor și ale filmelor de pe Netflix vor fi tot mai bune.
+            </h5>
         </div>
       </div>
     </div>

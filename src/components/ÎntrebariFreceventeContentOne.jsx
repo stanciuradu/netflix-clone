@@ -10,21 +10,21 @@ function ÎntrebariFreceventeContentOne() {
       <div class="row-întrebari row-cols-2">
         <div class="col-6">
           <img src="https://i.imgur.com/RMLnJQV.png" alt="" />
-          <p>
+          <h5>
             Netflix este un serviciu de difuzare online bazat pe abonamente,
             care permite abonaților să vizioneze seriale și filme fără reclame
             pe un dispozitiv conectat la internet.
-          </p>
-          <p>
+          </h5>
+          <h5>
             De asemenea, poți descărca seriale și filme pe dispozitivul iOS,
             Android sau Windows 10 și le poți viziona fără conexiune la
             internet.
-          </p>
+          </h5>
 
-          <p>
+          <h5>
             Dacă ești deja abonat și dorești să afli mai multe despre folosirea
             serviciului Netflix, accesează Familiarizează-te cu Netflix.
-          </p>
+          </h5>
         </div>
         <div class="col-6">
           <h3>Articole sugerate</h3>

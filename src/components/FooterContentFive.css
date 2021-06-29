@@ -1,0 +1,16 @@
+.footer-content-five{
+    display: flex;
+    justify-content: flex-end;
+    padding: 4rem;
+    background-color: black;
+    color: white;
+}
+.footer-content-five ul{
+    list-style-type: none;
+    display: flex;
+}
+.footer-content-five .link{
+    text-decoration: none;
+    color: grey;
+    margin-right: 2rem;
+}
