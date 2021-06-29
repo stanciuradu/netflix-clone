@@ -1,0 +1,19 @@
+.row-întrebari{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.row-întrebari p{
+    color: black;
+}
+.row-întrebari ul{
+    color: black;
+    margin-left: 2rem;
+}
+.row-întrebari h3{
+    margin-left: 2rem;
+    font-weight: bold;
+}
+.container .section-intrebari h1{
+    color: black;
+}
