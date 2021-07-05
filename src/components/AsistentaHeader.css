@@ -1,4 +1,4 @@
-.container {
+.container-asistenta {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -6,8 +6,9 @@
   background-image: url("https://i.imgur.com/cUw93OG.jpg");
   background-repeat: no-repeat;
   height: 15rem;
+  background-size: cover;
 }
-.container .h1 {
+.container-asistenta .h1 {
   color: aliceblue;
   text-align: center;
   margin-top: 4rem;
