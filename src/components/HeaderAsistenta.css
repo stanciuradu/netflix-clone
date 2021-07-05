@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: black;
+  background-image: url("https://i.imgur.com/cUw93OG.jpg");
+  background-repeat: no-repeat;
+  height: 15rem;
+}
+.container .h1 {
+  color: aliceblue;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.input-search {
+  margin: auto;
+  justify-content: center;
+}
+.input-search .input {
+  width: 50rem;
+  margin: auto;
+}
+.input-search .icon-search {
+  position: absolute;
+  margin-top: 0.2rem;
+}
+.input-search .input {
+  text-align: center;
+}
