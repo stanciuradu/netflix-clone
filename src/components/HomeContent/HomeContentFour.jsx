@@ -1,5 +1,5 @@
 import React from "react";
-import '../components/HomeContentFour.css';
+import '../../components/HomeContent/HomeContentFour.css';
 
 function HomeContentFour() {
   return (

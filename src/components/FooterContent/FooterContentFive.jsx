@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import '../components/FooterContentFive.css';
+import './FooterContentFive.css';
 
 function FooterContentFive() {
     return (

@@ -1,6 +1,6 @@
 import React from 'react';
-import Logo from "../assets/images/logo.png";
-import '../components/HeaderÎntrebari.css';
+import Logo from "../../assets/images/logo.png";
+import '../../components/HeaderQuestions/HeaderÎntrebari.css';
 function HeaderÎntrebari() {
     return (
         <div className='container-intrebari'>

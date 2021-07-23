@@ -1,5 +1,5 @@
 import React from "react";
-import "../components/HomeMain.css";
+import "../../components/HomeMain/HomeMain.css";
 
 class HomeMain extends React.Component {
   constructor() {

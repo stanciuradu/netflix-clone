@@ -1,5 +1,5 @@
 import React from "react";
-import '../components/ÎntrebariFreceventeContentTwo.css';
+import '../../components/ÎntrebariFrecvente/ÎntrebariFreceventeContentTwo.css';
 
 function ÎntrebariFrecventeContentTwo() {
   return (

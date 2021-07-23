@@ -1,5 +1,5 @@
 import React from "react";
-import "../components/AsistentaContentOne.css";
+import "../../components/AsistentaContent/AsistentaContentOne.css";
 import { Link } from "react-router-dom";
 
 function AsistentaContentOne() {

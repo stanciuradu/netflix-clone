@@ -1,6 +1,6 @@
 import React from "react";
-import "../components/AsistentaHeader.css";
-import { ReactComponent as Search } from "../assets/icons/search.svg";
+import "../../components/AsistentaHeader/AsistentaHeader.css";
+import { ReactComponent as Search } from "../../assets/icons/search.svg";
 
 function HeaderAsistenta() {
   return (

@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
 import { Route, Switch } from "react-router-dom";
-import Home from "./pages/Home";
-import Login from "./pages/Login";
+import Home from "./pages/Home/Home";
+import Login from "./pages/Login/Login";
 import Page404 from "./pages/Page404";
-import ÎntrebariFrecevente from "./pages/ÎntrebariFrecevente";
-import Asistenta from "./pages/Asistenta";
+import ÎntrebariFrecevente from "./pages/ÎntrebariFrecvente";
+import Asistenta from "./pages//Asistenta/Asistenta";
 
 
 function App() {

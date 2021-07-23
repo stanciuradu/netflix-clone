@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import { ReactComponent as Open } from "../assets/icons/open.svg";
-import "../components/HomeContentFive.css";
+import { ReactComponent as Open } from "../../assets/icons/open.svg";
+import "../../components/HomeContent/HomeContentFive.css";
 
 export class HomeContentFive extends Component {
   constructor() {

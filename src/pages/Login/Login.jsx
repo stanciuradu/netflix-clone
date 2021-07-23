@@ -1,8 +1,8 @@
 import React from "react";
-import Logo from "../assets/images/logo.png";
-import "../pages/Login.css";
+import Logo from "../../assets/images/logo.png";
+import "../../pages/Login/Login.css";
 import { Link } from "react-router-dom";
-import { ReactComponent as Facebook } from "../assets/icons/facebook.svg";
+import { ReactComponent as Facebook } from "../../assets/icons/facebook.svg";
 class Login extends React.Component {
   constructor() {
     super();

@@ -1,7 +1,7 @@
 import React from "react";
-import FooterContentFive from "./FooterContentFive";
+import FooterContentFive from "../../components/FooterContent/FooterContentFive";
 
-function ÎntrebariFrceventeContentFive() {
+function ÎntrebariFrecventeContentFive() {
   return (
     <div class="container">
       <div className="section-intrebari">
@@ -35,4 +35,4 @@ function ÎntrebariFrceventeContentFive() {
   );
 }
 
-export default ÎntrebariFrceventeContentFive;
+export default ÎntrebariFrecventeContentFive;
